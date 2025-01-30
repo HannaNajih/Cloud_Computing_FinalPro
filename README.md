@@ -16,20 +16,20 @@ The primary objectives of this project are:
 
 ## Project Structure
 VMP-Project/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── VirtualMachine.java
-│ │ │ ├── PhysicalMachine.java
-│ │ │ ├── GeneticAlgorithm.java
-│ │ │ ├── LargeNeighborhoodSearch.java
-│ │ │ └── VMP.java
-│ └── test/
-│ └── java/
-├── lib/
-├── .gitignore
-├── README.md
-└── pom.xml
+├── src/ <br>
+│ ├── main/<br>
+│ │ ├── java/<br>
+│ │ │ ├── VirtualMachine.java<br>
+│ │ │ ├── PhysicalMachine.java<br>
+│ │ │ ├── GeneticAlgorithm.java<br>
+│ │ │ ├── LargeNeighborhoodSearch.java<br>
+│ │ │ └── VMP.java<br>
+│ └── test/<br>
+│ └── java/<br>
+├── lib/<br>
+├── .gitignore<br>
+├── README.md<br>
+└── pom.xml<br>
 ### Explanation of Project Structure
 
 - **src/main/java**: Contains the main application code.
